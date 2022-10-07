@@ -4,3 +4,19 @@ footer {
     height: 78px;
     width: 1482px;
 }
+
+.header{
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+
+}
