@@ -19,4 +19,9 @@ footer {
     flex-direction: row;
     justify-content: space-around ;
 
+
+}
+
+.item{
+    margin-left: 10px;
 }
