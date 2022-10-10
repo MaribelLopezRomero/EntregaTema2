@@ -3,8 +3,25 @@ footer {
     color: #EFDBCA;
     height: 78px;
     width: 1482px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
+#contenedorFooter{
+    display: flex;
+    width: 1482px;
+    height: 78px;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.item{
+    color: #EFDBCA;
+    align-content: center;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 .header{
     background-color: orange;
     display: flex;
