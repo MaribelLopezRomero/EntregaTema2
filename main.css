@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 footer {
     background-color: #2c2c2c;
     color: #EFDBCA;
@@ -6,6 +8,7 @@ footer {
     margin-left: 10px;
     margin-right: 10px;
 }
+>>>>>>> 9fe505995b9ff20f455fdf1ca3fb8e5124990148
 
 #contenedorFooter{
     display: flex;
@@ -24,6 +27,15 @@ footer {
 }
 .header{
     background-color: orange;
+}
+.menu-redes{
+    display: flex;
+    
+  
+
+}
+.menu-Header{
+   
     display: flex;
     flex-direction: row;
     justify-content: space-around ;
