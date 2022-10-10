@@ -5,29 +5,42 @@ body {
 
 /*header*/
 
+.menu-redes-nav{
+
+  list-style: none;
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 0;
+  padding-right:50px ;
+
+
+}
 
 .item{
-    color: #EFDBCA;
-    align-content: center;
-    margin-top: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
-}
-.header{
-    background-color: orange;
-}
-.menu-redes{
-    display: flex;
-    
-  
+    margin-left: 10px;
+    color: #048A95;
 
+}
+
+.logo{
+  color: white;
+
+}
+
+.menu-redes{
+
+    background-color: white;
+    
 }
 .menu-Header{
    
     display: flex;
     flex-direction: row;
-    justify-content: space-around ;
+    justify-content: space-between;
     align-items: center;
+    background-color: #F1AA7E;
+    padding-left:50px ;
+    padding-right:50px ;
 }
 
 .nav{
@@ -37,12 +50,6 @@ body {
     justify-content: space-around ;
 
 }
-
-
-.item{
-  margin-left: 10px;
-}
-
 
   
   /*main*/
