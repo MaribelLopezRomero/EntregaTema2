@@ -1,5 +1,15 @@
+
 .header{
     background-color: orange;
+}
+.menu-redes{
+    display: flex;
+    
+  
+
+}
+.menu-Header{
+   
     display: flex;
     flex-direction: row;
     justify-content: space-around ;
