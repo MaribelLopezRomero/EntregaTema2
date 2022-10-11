@@ -108,6 +108,7 @@ body {
   height: 170px;
   border: 42px solid #048a95;
   border-width: 8px;
+  border-radius: 10px;
 }
 
 .texto {
@@ -160,6 +161,7 @@ body {
   height: 170px;
   border: 42px solid #98d2d0;
   border-width: 8px;
+  border-radius: 10px;
 }
 
 /*footer*/
