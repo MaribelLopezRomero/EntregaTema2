@@ -34,12 +34,16 @@ body {
   padding-right: 50px;
 }
 
-.nav {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+.nav{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+
 }
+
+
 
 /*main*/
 
