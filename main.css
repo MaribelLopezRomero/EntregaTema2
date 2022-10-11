@@ -106,6 +106,9 @@ body {
   height: 195px;
   font-family: "Calibri SM";
   font-size: 18px;
+  border-radius: 10px;
+  padding-left: 8px;
+    padding-right: 8px;
 }
 
 .parrafo {
