@@ -75,9 +75,15 @@ body {
 
 .title1 {
   background: #818181;
-  width: 1250px;
-  margin-top: 3em;
-  margin-bottom: 2em;
+    color: white;
+    width: 1250px;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    padding-top: 2%;
+    padding-left: 1%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
 }
 
 .article1 {
@@ -86,6 +92,9 @@ body {
   top: 705px;
   border-radius: 5px;
   background: #98d2d0;
+  display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 
 
@@ -107,8 +116,9 @@ body {
 .texto{
   background:#f4f3f2;
   width: 420px;
-  height: 180px;
-
+  height: 160px;
+  font-family: "Calibri SM";
+  font-size: 16px;
 }
 
 .parrafo {
@@ -117,13 +127,12 @@ body {
   margin-top: 2em;
   margin-bottom: 2em;
   font-style: oblique;
-  font-family: "Homemade Apple", cursive;
   font-family: "Special Elite", cursive;
   font-size: 20px;
   font-variant: normal;
   font-weight: 700;
   line-height: 26.4px;
-
+  letter-spacing: 2px;
   color: #07848f;
 }
 
