@@ -57,8 +57,14 @@ body {
   width: 100%;
   height: 349px;
   border-radius: 0px;
-
+  display: flex;
+  flex-direction: row;
   background: #33353c;
+}
+
+.imagenSecundaria{
+  width: 4%; 
+  margin: auto;
 }
 
 .imagenPrincipal {
